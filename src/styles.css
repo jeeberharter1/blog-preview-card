@@ -51,7 +51,7 @@ html {
 }
 
 body {
-    height: 100lvh;
+    min-height: 100lvh;
     background-color: var(--color-background);
     display: flex;
     align-items: center;
